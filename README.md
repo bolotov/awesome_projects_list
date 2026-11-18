@@ -2,12 +2,17 @@
 Awesome projects some of which are dead
 
 
-[HaikuTeam/animator](https://github.com/HaikuTeam/animator/) - Design tool for creating Lottie animations and interactive web components
+[HaikuTeam/animator](https://github.com/HaikuTeam/animator/) - Design tool
+for creating Lottie animations and interactive web components
 
-[Reverse Engineer All](https://github.com/morluto/rea) - have no idea, does it reverse engiineeres all?
+[Reverse Engineer All](https://github.com/morluto/rea) - have no idea,
+does it reverse engiineeres all?
 
 [Zirco browser](https://github.com/darvin/zirco-browser) - super ancient browser
 for android (15 years old and counting), but maybe it is crap
+
+[Google simple language](https://github.com/gitoscc/simple) - A Google simple
+language for developing android applications
 
 
 
